@@ -1,7 +1,7 @@
 # NHS Business Services Authority - Open Data Standards
 
-* [CSV standards](https://github.com/nhsbsa-data-analytics/open-data-standards/csv-standards.md)
-* [Data standards](https://github.com/nhsbsa-data-analytics/open-data-standards/data-standards.md)
+* [CSV standards](https://github.com/nhsbsa-data-analytics/open-data-standards/blob/main/csv-standards.md)
+* [Data standards](https://github.com/nhsbsa-data-analytics/open-data-standards/blob/main/data-standards.md)
 
 ## 1. Context
 
@@ -23,7 +23,7 @@ These standards should be adhered to as closely as possible for any new Open Dat
 ### 1.2. Spreadsheets
 This guidance is aimed primarily at CSV outputs. If you need to publish your data in a spreadsheet due to the need for multiple summaries in different tabs an accompanying CSV with the most granular data should be released alongiside it.
 
-If publishing a spreadsheet, the [GSS guidance on Releasing Statistics in Spreadsheets](https://gss.civilservice.gov.uk/policy-store/releasing-statistics-in-spreadsheets/) should be followed to make the output as accessible as possible.
+If publishing a spreadsheet, the [GSS guidance on Releasing Statistics in Spreadsheets](https://analysisfunction.civilservice.gov.uk/policy-store/releasing-statistics-in-spreadsheets/) should be followed to make the output as accessible as possible.
 
 ### 1.3. What is Open Data?
 Open Data is data that is available to everyone, including the public, to access, use, and share in anyway they like. It allows:

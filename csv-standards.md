@@ -1,7 +1,7 @@
 # CSV standards
 
 ## 1. Introduction
-All Open Data releases should be accompanied by a CSV file - or set of files - that contain the most granular data in a machine readable format. CSVs should be made available as additional resources if formatted summary tables are required for a release, these spreadsheets should follow the Government Statistical Service (GSS) guidance on [Releasing Statistics in Spreadsheets](https://gss.civilservice.gov.uk/policy-store/releasing-statistics-in-spreadsheets/) and be released in OpenDocument Spreadsheet format (.ODS).
+All Open Data releases should be accompanied by a CSV file - or set of files - that contain the most granular data in a machine readable format. CSVs should be made available as additional resources if formatted summary tables are required for a release, these spreadsheets should follow the Government Statistical Service (GSS) guidance on [Releasing Statistics in Spreadsheets](https://analysisfunction.civilservice.gov.uk/policy-store/releasing-statistics-in-spreadsheets/) and be released in OpenDocument Spreadsheet format (.ODS).
 
 These standards should be followed for all new Open Data releases with a view to migrate existing releases as part of business as usual publishing.
 
@@ -17,7 +17,7 @@ These standards should be followed for all new Open Data releases with a view to
 | 7 | If the file is large (greater than 10MB) consider publishing an accompanying ZIP folder. If you file is very large (greater than 100MB) consider using reference and lookup tables. **ZIP folders should not replace your CSV file** |
 | 8 | Keep the number individual CSV files to a minimum. If you require multiple summaries/views of the same data, publish the most granular data as a CSV file and provide an accompanying accessible spreadsheet with supporting summaries. |
 | 9 | Maintain a consistent structure to your data between releases (same columns, datatypes, and format). Any changes, for example, adding a column, should be communicated to users ahead of time |
-| 10 | Each column should only contain one datatype (`numeric`, `string`, `boolean`, etc.). Consider using an additional column to indicate Statistical Disclosure Control (SDC), missing values, and other data quality issues. The ['Using symbols and shorthand in tables'](https://gss.civilservice.gov.uk/policy-store/symbols-in-tables-definitions-and-help/) guidance from GSS should be followed. |
+| 10 | Each column should only contain one datatype (`numeric`, `string`, `boolean`, etc.). Consider using an additional column to indicate Statistical Disclosure Control (SDC), missing values, and other data quality issues. The ['Using symbols and shorthand in tables'](https://analysisfunction.civilservice.gov.uk/policy-store/symbols-in-tables-definitions-and-help/) guidance from GSS should be followed. |
 | 11 | Create and maintain good field level metadata via a data dictionary. |
 
 ## 3. Checklist
