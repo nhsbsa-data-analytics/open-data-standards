@@ -1,7 +1,7 @@
 # NHS Business Services Authority - Open Data Standards
 
-* [CSV standards](https://github.com/nhsbsa-data-analytics/open-data-standards/blob/main/csv-standards.md)
-* [Data standards](https://github.com/nhsbsa-data-analytics/open-data-standards/blob/main/data-standards.md)
+* [CSV standards](./csv-standards.md)
+* [Data standards](./data-standards.md)
 
 ## 1. Context
 
