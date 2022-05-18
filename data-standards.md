@@ -76,7 +76,7 @@ If your data set is very large consider using reference tables and removing labe
 
 Reference tables should be reused across data sets where possible.
 
-# 4. Missing values
+## 4. Missing values
 Where possible no missing values should be included in an Open Data release, if a value is 0 then it should be represented by a 0. Blank fields and cells when left unexplained risk confusion and misinterpretation. If a field does contain missing values then these need to be accompanied with an explanation in the associated metadata and guidance documentation. 
 
 **Never use N/A** - NA is an ambiguous shorthand that can be interpreted as 'not available' or 'not applicable'. Including it within a column can also cause you to mix data types.
@@ -92,7 +92,7 @@ If a column has multiple reasons why a value might be missing then a separate qu
 | x | **Not available -** This data point was not available. For example, data is not collected for a particular region |
 | z | **Not applicable -** This data point is not applicable. For example, in NHS Jobs application data where people under the age of 16 cannot legally be employed, or in dispening contractor data where Dispensing Doctors cannot carry advanced services |
 
-## 4.1. Examples
+### 4.1. Examples
 
 **Bad practice**
 | QUESTION_NUMBER | AGE_GROUP | RESPONDENTS |
@@ -114,7 +114,7 @@ If a column has multiple reasons why a value might be missing then a separate qu
 | 2 | 21 to 25 | 44 |  |
 | 2 | 26 to 30 | 7 |  |
 
-# 5. Statistical disclosure control (SDC)
+## 5. Statistical disclosure control (SDC)
 SDC is the process of making sure that the data we are releasing does not contain an personally identifiable data (PII) or cannot be used to discover anything about an individual. We have a separate SDC policy that should be followed for all Open Data releases
 
 * [SDC policy](https://www.nhsbsa.nhs.uk/policies-and-procedures)
