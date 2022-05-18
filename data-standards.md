@@ -85,12 +85,12 @@ If a column has multiple reasons why a value might be missing then a separate qu
 
 | Symbol | Meaning |
 | --- | --- |
-| c | **Confidential - ** The data point has been suppressed in line our Statistical Disclosure Control policy |
-| f | **Forecast - ** This data point is a calculated future value instead of an observed value |
-| p | **Provisional - ** This data point is yet to be finalised or expected to be revised |
-| r | **Revised - ** This data point has been revised since it was first published |
-| x | **Not available - ** This data point was not available. For example, data is not collected for a particular region |
-| z | **Not applicable - ** This data point is not applicable. For example, in NHS Jobs application data where people under the age of 16 cannot legally be employed, or in dispening contractor data where Dispensing Doctors cannot carry advanced services |
+| c | **Confidential -** The data point has been suppressed in line our Statistical Disclosure Control policy |
+| f | **Forecast -** This data point is a calculated future value instead of an observed value |
+| p | **Provisional -** This data point is yet to be finalised or expected to be revised |
+| r | **Revised -** This data point has been revised since it was first published |
+| x | **Not available -** This data point was not available. For example, data is not collected for a particular region |
+| z | **Not applicable -** This data point is not applicable. For example, in NHS Jobs application data where people under the age of 16 cannot legally be employed, or in dispening contractor data where Dispensing Doctors cannot carry advanced services |
 
 ## 4.1. Examples
 
